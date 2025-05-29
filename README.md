@@ -23,4 +23,5 @@ Sou um entusiasta de dados e estatística, apaixonado por transformar números e
 
 ## 🐍 Animação de Contribuições
 
-![Snake animation](https://github.com/LeviFV/.github/workflows/snake.yml)
+![Snake animation](https://github.com/LeviFV/LeviFV/blob/output/github-contribution-grid-snake.svg)
+

@@ -20,3 +20,5 @@ Sou um entusiasta de dados e estatística, apaixonado por transformar números e
 ## 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathas-levi-freitas-vieira-95a12719b)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](email:jonathaslfvieira@gmail.com)
+
+![Snake animation](https://github.com/LeviFV/LeviFV/blob/output/github-contribution-grid-snake.svg)

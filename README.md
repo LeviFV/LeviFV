@@ -18,7 +18,7 @@ Sou um entusiasta de dados e estatística, apaixonado por transformar números e
 ![LeviFV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviFV&show_icons=true&theme=radical)
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jonathas-levi-freitas-vieira-95a12719b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathas-levi-freitas-vieira-95a12719b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](email:jonathaslfvieira@gmail.com)
 
 

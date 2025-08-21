@@ -12,7 +12,9 @@ Sou um entusiasta de dados e estatística, apaixonado por transformar números e
 
 ## 📌 Projetos em Destaque
 - [Curva de Acumulação de Espécies](https://github.com/LeviFV/curva_acumulacao): Análise da biodiversidade utilizando métodos estatísticos em R.
-- [Análise ANOVA 2 Vias](https://github.com/LeviFV/anova-2-way): Estudo de variância com dois fatores aplicando técnicas avançadas.
+- [Análise ANOVA 2 Way](https://github.com/LeviFV/anova-2-way): Estudo de variância com dois fatores aplicando técnicas avançadas.
+- [Imersão dados Alura](https://github.com/LeviFV/imersao-dados-python-alura-2025.git): Dashboard interativo sobre salários na área de dados
+- 
 
 ## 📈 Estatísticas do GitHub
 ![LeviFV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviFV&show_icons=true&theme=radical)
